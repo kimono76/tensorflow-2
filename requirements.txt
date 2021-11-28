@@ -7,4 +7,5 @@ scikit-learn==0.21.3
 numpy==1.16.5
 seaborn==0.9.0
 tensorflow==2.0.0
-
+nbterm==0.0.11
+pip_search==0.0.7
